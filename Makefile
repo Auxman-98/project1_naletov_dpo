@@ -1,6 +1,6 @@
 install :
-        poetry install
+	poetry install
 
 project :
-        poetry run project
+	poetry run project
 
