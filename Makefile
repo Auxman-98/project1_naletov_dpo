@@ -1,5 +1,7 @@
-install:
+install :
         poetry install
 
-project:
+<<<<<<< HEAD
+project :
         poetry run project
+
